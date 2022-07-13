@@ -1,0 +1,17 @@
+void view() ;
+void command() ;
+void click_text_view();
+void click_text_com();
+void click_label_view() ;
+void click_label_com() ;
+void click_previous_view() ;
+void click_previous_com() ;
+void create_text_view() ;
+void create_text_com() ;
+void save_text_com() ;
+void create_label_view() ;
+void create_label_com() ;
+void save_label_com() ;
+void create_text_view_note() ;
+void create_text_com_note() ;
+void create_label_view_note() ;
